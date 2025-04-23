@@ -1,1 +1,1 @@
-Projeto de Rest API de produtos e estoque.
+Projeto Rest API de gerenciamento de produtos e estoque.
